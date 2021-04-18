@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taskThreeDelegats", "taskThreeDelegats\taskThreeDelegats.csproj", "{69B63457-77E2-476A-8EDF-CD9E7DCD944D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B63457-77E2-476A-8EDF-CD9E7DCD944D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B63457-77E2-476A-8EDF-CD9E7DCD944D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B63457-77E2-476A-8EDF-CD9E7DCD944D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B63457-77E2-476A-8EDF-CD9E7DCD944D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0893ECBC-E18E-474C-B9BC-395AA2559814}
+	EndGlobalSection
+EndGlobal
