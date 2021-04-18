@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System;
 using System.Threading;
 
 namespace taskThreeDelegates
@@ -27,6 +24,7 @@ namespace taskThreeDelegates
             Console.WriteLine("Got Event!");
         }
     }
+    
     public class EventGenerator
     {
         public event EventHandler GeneratorEvent = delegate { };
@@ -43,7 +41,6 @@ namespace taskThreeDelegates
                 Thread.Sleep(1000);
             }
             while (GenerationCount != 0);
-
         }
     }
 }
